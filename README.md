@@ -1,3 +1,3 @@
-# papers
+# Papers
 
 I publish papers here.
